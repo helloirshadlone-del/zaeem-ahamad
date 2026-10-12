@@ -1,0 +1,6 @@
+{
+  "name": "HabitQuest - Gamified RPG Habit & Quest Tracker",
+  "description": "Level up your life with HabitQuest. Transform daily habits into RPG quests, gain XP, build streaks, conquer weekly boss raids, and climb adventurer leagues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
